@@ -27,7 +27,7 @@ public class ComputerStoreSystem {
      */
     public static void main(String[] args) {
    
-        Menu menu = new Menu("CHAO MUNG TOI QUAN LI CUA HANG MAY TINH hehe");
+        Menu menu = new Menu("CHAO MUNG TOI QUAN LI CUA HANG MAY TINH 1");
         menu.addNewOption("1. Quan li san pham");
         menu.addNewOption("2. Quan li khach hang");
         menu.addNewOption("3. Quan li nha cung cap");
